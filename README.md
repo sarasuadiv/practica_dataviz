@@ -1,2 +1,2 @@
 # practica_dataviz
-Visualización de datos con Tableau
+Dashboard para la viusalización de datos de Airbnb en Madrid con Tableau
